@@ -49,3 +49,9 @@ h1 {
     align-items: center;
     justify-content: center;
 }
+
+span {
+    color: white;
+    font-size: 50px;
+    font-weight: bolder;
+}
